@@ -7,9 +7,10 @@
 ![Alt keytoaccount](https://github.com/Daria0008/gitpractice/blob/main/005addsshpubkey.png)
 
 3. Проверим работу с помощью команды ssh -T git@github.com, введем пароль от ключа и получим приветствие и подтверждение аутентификации
+
 ![Alt keytoaccount](https://github.com/Daria0008/gitpractice/blob/main/015enterpass.png)
 ![Alt keytoaccount](https://github.com/Daria0008/gitpractice/blob/main/016himessage.png)
 
-4. Создадим новый коммит для README.md и отправим его в наш репозиторий по ssh
+5. Создадим новый коммит для README.md и отправим его в наш репозиторий по ssh
 ![Alt keytoaccount](https://github.com/Daria0008/gitpractice/blob/main/017commit.png)
 ![Alt keytoaccount](https://github.com/Daria0008/gitpractice/blob/main/018done.png)
